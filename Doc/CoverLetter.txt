@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in a position such as Tech Lead, Lead Android / Kotlin Multiplatform Developer, Full Stack Mobile Developer, or GoLang Developer. With over 14 years of hands-on experience in software engineering and mobile application development, I have cultivated a deep technical foundation combined with a passion for innovation and clean, scalable architecture.
+
+My expertise spans Kotlin Multiplatform Development (Android, iOS, Web), native Android app engineering, and Full Stack web development using the Kobweb framework. I have worked extensively with technologies like Compose UI, Jetpack libraries, Ktor, Coroutines, GraphQL, Firebase, and Keycloak (Identity and Access Management). Additionally, I have strong backend experience in GoLang (GIN framework), enabling me to build efficient microservices and connect mobile and web ecosystems seamlessly.
+
+Beyond coding, I focus on telecom and network performance, Bluetooth & NearBy discovery, and app optimization, using tools like memory profilers and ADB to resolve performance bottlenecks. I apply SOLID principles and patterns like MVVM and MVI, emphasizing a single business logic approach for cross-platform applications to ensure reliability, maintainability, and scalability.
+
+Currently, I lead teams and oversee projects from concept to deployment, ensuring seamless coordination across development, testing, and client communication. I work closely with stakeholders to translate complex requirements into efficient, scalable, and maintainable technical solutions.
+
+I have been exploring Kobweb, AI integration through the Koog (Kotlin Agentic Framework) and applying prompt engineering techniques to build intelligent, context-aware systems that enhance automation and decision-making within mobile and web applications.
+
+
+Thank you for considering my application.
+
+
+Sincerely,
+Ashwani Kumar Singh

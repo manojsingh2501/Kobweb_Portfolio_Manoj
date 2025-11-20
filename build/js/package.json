@@ -1,0 +1,17 @@
+{
+  "name": "ashwa",
+  "version": "unspecified",
+  "private": true,
+  "workspaces": [
+    "packages/ashwa",
+    "packages/ashwa-test",
+    "packages_imported/html-core-js/1.8.0",
+    "packages_imported/kotlinbs-bootstrap/0.1.6"
+  ],
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "resolutions": {}
+}

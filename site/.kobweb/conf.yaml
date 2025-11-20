@@ -1,0 +1,14 @@
+site:
+  title: "Ashwani Kumar Singh"
+
+server:
+  files:
+    dev:
+      contentRoot: "build/processedResources/js/main/public"
+      script: "build/kotlin-webpack/js/developmentExecutable/ashwa.js"
+      api: "build/libs/ashwa.jar"
+    prod:
+      script: "build/kotlin-webpack/js/productionExecutable/ashwa.js"
+      siteRoot: ".kobweb/site"
+
+  port: 8080

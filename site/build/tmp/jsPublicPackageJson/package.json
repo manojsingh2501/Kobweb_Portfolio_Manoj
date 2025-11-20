@@ -1,0 +1,19 @@
+{
+  "name": "ashwa",
+  "version": "1.0.0-SNAPSHOT",
+  "main": "ashwa.js",
+  "types": "ashwa.d.ts",
+  "devDependencies": {
+    "webpack": "5.100.2",
+    "webpack-cli": "6.0.1",
+    "kotlin-web-helpers": "2.1.0",
+    "source-map-loader": "5.0.0",
+    "webpack-dev-server": "4.15.2"
+  },
+  "dependencies": {
+    "bootstrap": "5.3.5"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

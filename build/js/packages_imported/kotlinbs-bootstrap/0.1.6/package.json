@@ -1,0 +1,13 @@
+{
+  "name": "kotlinbs-bootstrap",
+  "version": "0.1.6",
+  "main": "kotlinbs-bootstrap.js",
+  "types": "kotlinbs-bootstrap.d.ts",
+  "devDependencies": {},
+  "dependencies": {
+    "bootstrap": "5.3.5"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

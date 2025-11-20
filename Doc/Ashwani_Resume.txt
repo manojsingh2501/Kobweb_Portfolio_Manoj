@@ -1,0 +1,167 @@
+ASHWANI KUMAR SINGH
+ANDROID TECH LEAD / KMP DEVELOPER
++91-7349629131 Bangalore
+ashwanisingh8713@gmail.com
+
+About:
+	A self-taught software developer and Tech Lead with a strong passion for modern technology.
+	Skilled in leading teams, collaborating with clients, and delivering high-quality, impactful digital solutions that drive business success.
+
+SKILLS:
+	Kotlin Multiplatform Development (Android,
+	iOS, Web)
+	Android Native App Development
+	KobWeb framework for building web
+	applications (Static & FullStack)
+	Koog - Kotlin AI Agentic Framework
+	Specialized telecom and network performance
+	Bluetooth & GooglePlayService NearBy
+	Discovery
+	SOLID principles and display pattern for
+	Presentation layer(eg- MVVM-MVI)
+	JetPack Libs & ComposeUI
+	DI (KOIN, HILT)
+	GraphQL
+	Expect/Actual, Ktor, Coroutine, Flow
+	Log back stack tracking
+	Debugging, Memory Profiler, Performance
+	bottlenecks, and Adb-tools
+	Firebase Full Integration
+	Client handling & support
+	Google DFP & IMA Ads
+	GraphQL integration & Webpack configuration
+	Project Management Tools
+	Team Managing, Problem solving
+	Wireframe creation (Diagrams, Miro)
+	GoLang Microservices (GIN)
+	UnitTest cases writing
+	Reactive Programming
+	AI Tools & Prompt Engineering
+
+LANGUAGES:
+	Kotlin, Java, GoLang, Swift, Dart, C++
+
+FRAMEWORKS:
+	KMP, MOSQUITO, GoMobile, Kobweb, GIN, NO-SQL DB, ORMs, Wireless Communication
+
+DOMAINS"
+	NEWS, E-Commerce, Utility, Telecom & Network Performance Domain
+
+AWARDS AND ACHIEVEMETNS:
+	Pat On The Back Award in Tech Mahindra.
+	Employee of the year in Ninestars Technologies in 2016.
+
+EDUCATION:
+	Bachelor in CS - July 2005 to Jun 2009 APS University, Rewa, M.P.
+	10+2 (PCM) - July 2003 to May 2004 Saraswati Shishu Vidya Mandir, M.P. Board
+	10th (All) - July 2001 to May 2002	Saraswati Shishu Vidya Mandir, M.P. Board
+
+EXPERIENCE
+	TECH MAHINDRA (Tech Lead, May-2024 to Present)
+		Log back stack tracking, Debugging,
+		Android Native, JNI code implementation.
+		Performance and Memory handling.
+		NR & LTE network communications and monitoring.
+		Inter-Process communication and process implementation.
+		Responsible for code architecture, correct coding practices, Code Reviewing.
+		I have mostly been involved in development and working with the development team.
+		Designed and Implemented Server driven template based custom UIs.
+		Working on App Code Architecture and Performance with quality.
+		Client interaction.
+		Understanding and accumulating requirements, Making Flow Diagram, Providing Task breakup and estimation, distributing tasks.
+
+	NINESTARS INFORMATION TECHNOLOGIES (Lead android developer, Aug-2015 to May-2024)
+		Responsible for code architecture, correct coding practices, Code Reviewing.
+		Responsible for feature delivery on Mobile. Prepare task scoping and breakdown from product stories to ensure code
+		quality and reusability.
+		I have mostly been involved in development and working with the development team.
+		Designed and Implemented Server driven template based custom UIs.
+		Worked on App Code Architecture and Performance with quality.
+		Worked on Database, Scheduled syncing.
+		Worked on GraphQL APIs implementation.
+		Handling and Managing Team.
+		Client interaction and handling.
+		Understanding and accumulating requirements, Making Flow Diagram, Providing Task breakup and estimation, distributing tasks.
+		Take ownership of end-to-end product quality, from developing to maintaining core app frameworks that help make
+		the apps more reliable and delightful.
+
+	GLOBAL LOGIC INDIA LTD (Senior software developer, Mar-2014 to Aug-2015)
+		Android App Programmer
+		Delivering and launching the product or feature successfully.
+		Create prototypes of new ideas and explore new technologies at the forefront of mobile technology
+		Worked on custom UIs & designs
+		Database and APIs Integration
+		Background Jobs, Alarm Manager, Background data syncing Implementation
+		Worked on MVM Design Pattern using RxJava.
+
+	A1 TECHNOLOGIES (Software Engineer, Dec-2011 to Feb-2014)
+		Creating layouts and designs
+		Database and API integration
+		Multi listview with Loader data provider.
+		Implemented Content Providers,
+		Worked on Services and Global & Local BroadcastReceivers to load data in background and update on UIs.
+		Social Login Implementation.
+
+	RED ORANGE TECHNOLOGIES (Junior Software engineer, May-2011 to Dec-2011)
+		Understood Android Mobile App Lifecycle.
+		Performed REST API requests for uploading, downloading files.
+		Creating layouts and designs.
+
+	LIMITEX TECHNOLOGIES (Trainee/Junior Software developer, Sep-2010 to May-2011)
+		Worked on webapp, Created basic html templates.
+		Moved to Trainee Android Development.
+
+Selected Project Experience
+	Nemo Handy – Professional Wireless Network Measurement Tool
+	https://www.keysight.com/in/en/product/NTH50047B/nemo-handy-handheld-measurement-solution.html
+		Nemo Handy is an Android-based application for measuring wireless diagnostics, Quality of Service (QoS), and Quality of
+		Experience (QoE) to ensure optimal network performance and user satisfaction.
+		Key Features:
+		Bluetooth & GooglePlayService NearBy Discovery to communicate and transfer data and files between multiple devices.
+		Supports 5G NR, LTE/LTE-A, VoLTE, VoWiFi, ViLTE, Carrier Aggregation, and IoT testing.
+		User-Friendly Interface: Intuitive dashboards for easy data interpretation.
+		Device Compatibility Testing: Assess how different mobile devices perform across network types.
+		Supports application-level QoE testing (YouTube, Facebook, WhatsApp, Instagram, etc.)
+		Enables instant reporting, navigation, and Network Performance Score (NPS) evaluation.
+		Uploading & downloading measurements on Drive, DropBox, Clouds, etc...
+		Nemo Handy is the world’s leading handheld solution for drive tests and in-building network measurements—offering full
+		measurement functionality, excellent visualization, and compatibility with the latest commercial smartphones.
+		
+
+	Kobweb-Blog – Full-Stack Technical Blogging Platform
+	https://github.com/ashwanisingh8713/Kobweb_Blog
+		Technologies: Kotlin Multiplatform, Kobweb Framework, Compose for Web, Ktor, MongoDB
+		• Developed a full-stack blogging platform with Kotlin Multiplatform and Kobweb, integrating frontend, backend,
+		and database.
+		• Built a dynamic blogging platform with category, search, and auth modules.
+		• Implemented REST APIs and MongoDB integration for seamless data management and content persistence.
+
+	Portfolio Website – Personal Branding Site
+	https://github.com/ashwanisingh8713/Kobweb_Portfolio_Ashwani.git
+		Technologies: Kotlin Multiplatform, Kobweb Framework, Compose for Web, Ktor, MongoDB
+		Designed and deployed a responsive portfolio with contact form integration.
+
+	THE HINDU: LIVE NEWS UPDATES:
+	https://play.google.com/store/apps/details?id=com.mobstac.thehindu&hl=enIN
+
+	THE HINDU BUSINESS LINE:
+	https://play.google.com/store/apps/details?id=com.mobstac.thehindubus inessline&hl=en
+	IN
+	These two apps typically provides access to a wide range of news articles covering national and international news,politics, business, sports, entertainment, technology, and more.
+	Features : Customisable News Feed Offline Reading Multimedia Content Opinion and Editorial Sections Search
+	Functionality Subscription Models Text To Speech Metered Paywall Day/Night Mode Dynamic UIs based on predefined template Dynamic Icons and Theme Bookmark feature Audio and Video Player DeepLink & Dynamic Link Various, Analytics Taboola DFP ADs
+	Responsibilities : Take ownership of end-to-end product quality.
+	Client Interaction, Gathering requirement and estimation, Sprint & team handling.
+	App Architecture, Flow Diagram, Database implementation, Performance Solving.
+	Implemented dynamic UI based on predefined template, written server response and structure for UI, Theme, Sync, Icons can be updated any time from server.
+
+	KMP Project : Shopify Mobile Apps POC
+		Worked on Voyager Navigator, Actual-Expect, Koin, Ktor, Clean Arch, MVI Design Pattern
+		Worked on Material-3, Compose UI.
+		Worked on Android, iOS and Web Apps Implementation
+		Worked on Third party libraries, resources, localisations
+		Worked on GraphQL API integration
+		Shopify APIs integration and Store Configuration
+
+	Additional Projects: Contributed to 10+ Android, Kotlin Multiplatform, and internal tooling
+	projects.

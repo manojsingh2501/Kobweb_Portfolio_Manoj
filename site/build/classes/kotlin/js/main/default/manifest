@@ -1,0 +1,12 @@
+abi_version=2.2.0
+builtins_platform=JS
+compiler_version=2.2.10
+depends=org.jetbrains.compose.runtime\:runtime org.jetbrains.compose.html\:html-core com.varabyte.kobweb\:kobweb-silk com.varabyte.kobweb\:kobweb-core com.varabyte.kobwebx\:silk-icons-fa com.varabyte.kobwebx\:kobwebx-markdown com.stevdza.san.bootstrap\:bootstrap org.jetbrains.compose.html\:internal-html-core-runtime com.varabyte.kobweb\:silk-widgets-kobweb com.varabyte.kobweb\:silk-widgets com.varabyte.kobweb\:silk-foundation com.varabyte.kobweb\:kobweb-compose com.varabyte.kobweb\:compose-html-ext com.varabyte.kobweb\:kobweb-worker-interface com.varabyte.kobwebx\:kobwebx-frontmatter com.varabyte.kobweb\:browser-ext org.jetbrains.kotlinx\:kotlinx-coroutines-core com.varabyte.kobweb\:framework-annotations org.jetbrains.kotlinx\:atomicfu org.jetbrains.kotlin\:kotlin-dom-api-compat kotlin
+ir_signature_versions=1,2
+jsOutputName=ashwa
+language_features=+JsAllowValueClassesInExternals +MultiPlatformProjects
+metadata_version=1.4.1
+serializedIrFileFingerprints=226gx6c0fo4zj.bsppp6kkq7b1 1uipkyxm4b4rm.1jyf9adxseaug 3opvwyv2qh85y.3w3thmcos86ds rfdap1kb16h6.32sukufgz7aw2 2tzl01gfpemcl.1w3u372mi09k0 2elfi24hfl0zc.2lkqxeno0plx 2pmyvdmkf1klq.u9fedpcy5fqp 2vtx467drgwa4.1126g6ljkdrg1 2ounbsn7ct9wh.3n28mt1v04nso 3tymchec2sdi1.16t9iqk5pk2cn bc43kxfd62qa.1l4qr3xn5t4k8 af1adqz0d1n.1uz46e2jqdvyi kei5xowcm6yl.2zbfkhtj9qqcw 3cjp47agosus0.3ceyamm1maw84 3d3uwhjq2s2hr.19ip3ygemj99n 1xiqq8nz53m9c.7bv9btcfiewh t9dyy85exu7n.uj6r711qprce 7kpbvd71dtfa.3nhla6c94mczo 2mtkzftnriiom.35bfznse9pop7 2dcacifh85kqx.1llgk0g7ybz2a 2yk5pv9zjq4bw.22kc0z3c32pcq 3gfo9lk9l67kq.39o1ywtawn00o ay9tw9sqvtj.2pm2zj3llhget 3k3iy0vs9242i.65i6cr0y7s6o 25z40wbnwe3f1.12z57hlotouug qq48rqounsii.163euexh6vzgv 1n4rdi8t5q96g.3tvpj6utro3ba 24hudqj6iptqy.cz5hsbmtlal7 225zpmr0822ub.7k27o8csq7en 3o3cmd3ikquwy.2xcrnbwpswh2p 35xb09yjqmdnh.2l8qujixuyjbu 3v9bon3nzgzi0.2ixwvymypm7t7 2hps285kzn0r6.1ohuer4dbxcbp 374sqt23hxl9j.1mywepq4hsth5
+serializedKlibFingerprint=dfvzx9w3qeax.2p215ehgauyh0
+unique_name=com.mano.ashwa\:site
+wasm_targets=wasm-js
