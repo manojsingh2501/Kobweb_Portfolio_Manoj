@@ -24,10 +24,10 @@ kobweb {
     app {
         index {
             val url = ""
-            val authorStr = "Ashwani Kumar Singh"
+            val authorStr = "Manoj Kumar Singh"
 
             val descriptionStr = """
-				Hi, I'm Ashwani Kumar Singh, a software engineer based in India, and I'm passionate about mobile technology and AgenticAI.
+				Hi, I'm Manoj Kumar Singh, a software engineer based in India, and I'm passionate about mobile technology and AgenticAI.
 				Discover my projects and my blog on this website.
 			""".trimIndent()
 

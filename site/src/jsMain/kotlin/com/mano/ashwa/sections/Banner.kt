@@ -39,7 +39,7 @@ fun Banner() {
     val textColor = if (current == com.varabyte.kobweb.silk.theme.colors.ColorMode.DARK) Colors.White else Colors.Black
 
     val animatedText = rememberAnimatedText(
-        toRotate = listOf("Android Tech Lead", "KMP Developer","Kobweb Developer"),
+        toRotate = listOf("iOS Tech Lead", "Mobile Fullstack Developer","KMP Developer","Kobweb Developer"),
         period = 2000
     )
     SimpleGrid(
@@ -90,7 +90,7 @@ fun BannerText(text: String) {
                 .toAttrs()
         ) {
             SpanText(
-                text = "Hi! I'm Ashwani $text",
+                text = "Hi! I'm Manoj $text",
                 modifier = Modifier.borderRight(
                     width = 0.08.em,
                     style = LineStyle.Solid,

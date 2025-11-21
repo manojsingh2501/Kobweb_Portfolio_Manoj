@@ -462,7 +462,7 @@
     _init_properties_main_kt__ykjpl3();
     handleServerStatusEvents();
     get_api(window).set_logOnError_wi584t_k$(true);
-    AppGlobals_getInstance().initialize_8ufbf0_k$(mapOf([to('title', 'Ashwani Kumar Singh'), to('author', 'Ashwani Kumar Singh'), to('description', "Hi, I'm Ashwani Kumar Singh, a software engineer based in India, and I'm passionate about mobile technology and AgenticAI.\nDiscover my projects and my blog on this website."), to('url', '')]));
+    AppGlobals_getInstance().initialize_8ufbf0_k$(mapOf([to('title', 'Ashwani Kumar Singh'), to('author', 'Manoj Kumar Singh'), to('description', "Hi, I'm Manoj Kumar Singh, a software engineer based in India, and I'm passionate about mobile technology and AgenticAI.\nDiscover my projects and my blog on this website."), to('url', '')]));
     Companion_getInstance().set_wjk6wo_k$('');
     var router = new Router();
     initKobweb(router, main$lambda);
@@ -6798,7 +6798,7 @@
     _init_properties_CoverLetter_kt__86bx4l();
     var tmp0 = ctx.get_data_wokkxf_k$();
     // Inline function 'com.varabyte.kobweb.core.data.add' call
-    var value = new PageLayoutData('Ashwani Cover Letter');
+    var value = new PageLayoutData('Manoj Cover Letter');
     tmp0.set_wb2scb_k$(getKClass(PageLayoutData), value);
   }
   function CoverLetter_0($composer, $changed) {
@@ -6868,7 +6868,7 @@
         }
         return Unit_getInstance();
       } else {
-        $composer_0.startReplaceGroup_5hh8aj_k$(1275778867);
+        $composer_0.startReplaceGroup_5hh8aj_k$(1275780851);
         $composer_0.endReplaceGroup_ek144q_k$();
       }
       // Inline function 'kotlin.collections.mutableListOf' call
@@ -7625,7 +7625,7 @@
     _init_properties_Skills_kt__ipxf36();
     var tmp0 = ctx.get_data_wokkxf_k$();
     // Inline function 'com.varabyte.kobweb.core.data.add' call
-    var value = new PageLayoutData('Ashwani Skills');
+    var value = new PageLayoutData('Manoj Skills');
     tmp0.set_wb2scb_k$(getKClass(PageLayoutData), value);
   }
   function SkillPage($composer, $changed) {
@@ -7835,7 +7835,7 @@
     }
   }
   function downloadResume() {
-    var fileName = 'Ashwani TechLead & KMP Developer.pdf';
+    var fileName = 'Manoj TechLead & KMP Developer.pdf';
     var tmp = encodeURIComponent(fileName);
     var encoded = (!(tmp == null) ? typeof tmp === 'string' : false) ? tmp : THROW_CCE();
     var href = '/resume/' + encoded;
@@ -7967,7 +7967,7 @@
       var current = tmp0_0.get_value_j01efc_k$();
       var sitePal = toSitePalette(current);
       var textColor = current.equals(ColorMode_DARK_getInstance()) ? Colors_getInstance().get_White_ij46ow_k$() : Colors_getInstance().get_Black_i7mvue_k$();
-      var animatedText = rememberAnimatedText(listOf(['Android Tech Lead', 'KMP Developer', 'Kobweb Developer']), 2000, $composer_0, 54);
+      var animatedText = rememberAnimatedText(listOf(['iOS Tech Lead', 'Mobile Fullstack Developer', 'KMP Developer', 'Kobweb Developer']), 2000, $composer_0, 54);
       var tmp = numColumns(1, VOID, 2);
       var tmp_0 = id(toModifier(get_bannerStyle(), $composer_0, com_varabyte_kobweb_silk_style_CssStyle$stableprop_getter()), 'home');
       // Inline function 'kotlin.run' call
@@ -8128,7 +8128,7 @@
   function BannerText$lambda$lambda($text) {
     return function ($this$H1, $composer, $changed) {
       var $composer_0 = $composer;
-      var tmp = "Hi! I'm Ashwani " + $text;
+      var tmp = "Hi! I'm Manoj " + $text;
       var tmp_0 = Companion_getInstance_3();
       var tmp_1 = get_em(0.08);
       // Inline function 'org.jetbrains.compose.web.css.Companion.Solid' call
@@ -8767,7 +8767,7 @@
       }
       var tmp_1 = tmp_0;
       var tmp$ret$3 = (tmp_1 == null ? true : !(tmp_1 == null)) ? tmp_1 : THROW_CCE();
-      A('https://github.com/ashwanisingh8713', tmp$ret$3, ComposableSingletons$FooterKt_getInstance().lambda$_1725968678_2k3s8l_1, $composer_0, 438, 0);
+      A('https://github.com/manojsingh2501', tmp$ret$3, ComposableSingletons$FooterKt_getInstance().lambda$_1725968678_2k3s8l_1, $composer_0, 438, 0);
       // Inline function 'androidx.compose.runtime.cache' call
       // Inline function 'kotlin.let' call
       var it_0 = $composer_0.rememberedValue_4dg93v_k$();
@@ -9728,7 +9728,7 @@
       if (!ContactUsInput$validateAll($firstNameError$delegate, $lastNameError$delegate, $emailError$delegate, $subjectError$delegate, $messageError$delegate, $infoMessage$delegate, $firstName$delegate, $lastName$delegate, $email$delegate, $subject$delegate, $message$delegate)) {
         return Unit_getInstance();
       }
-      var recipient = 'ashwani@example.com';
+      var recipient = 'Manoj@example.com';
       // Inline function 'kotlin.text.buildString' call
       // Inline function 'kotlin.apply' call
       var this_0 = StringBuilder_init_$Create$();
@@ -9890,7 +9890,7 @@
         BSButton(tmp_20, null, 'Send Message  \u2709\uFE0F', null, null, null, null, tmp_21, false, false, null, null, null, tmp$ret$31, $composer_0, 384 | com_stevdza_san_kotlinbs_models_button_ButtonCustomization$stableprop_getter() << 21, 3072, 8058);
         var tmp_24;
         if (!(ContactUsInput$lambda_19($infoMessage$delegate) == null)) {
-          $composer_0.startReplaceGroup_5hh8aj_k$(1964755979);
+          $composer_0.startReplaceGroup_5hh8aj_k$(1964753995);
           var tmp_25 = ensureNotNull(ContactUsInput$lambda_19($infoMessage$delegate));
           var tmp_26 = color(padding_0(Companion_getInstance_3(), get_px(12)), $infoColor);
           SpanText(tmp_25, tmp_26, null, null, $composer_0, 0, 12);
@@ -10522,9 +10522,9 @@
   var com_mano_ashwa_utils_AppStrings$stable;
   function AppStrings() {
     AppStrings_instance = this;
-    this.userName_1 = 'Ashwani Kumar Singh';
-    this.documentPageTitle_1 = 'Resume - Ashwani Kumar Singh';
-    this.aboutPageTitle_1 = 'About - Ashwani Kumar Singh';
+    this.userName_1 = 'Manoj Kumar Singh';
+    this.documentPageTitle_1 = 'Resume - Manoj Kumar Singh';
+    this.aboutPageTitle_1 = 'About - Manoj Kumar Singh';
   }
   protoOf(AppStrings).get_userName_ytepxb_k$ = function () {
     return this.userName_1;

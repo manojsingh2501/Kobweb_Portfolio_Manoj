@@ -111,8 +111,8 @@ public fun main() {
 
     window.api.logOnError = true
 
-    AppGlobals.initialize(mapOf("title" to "Ashwani Kumar Singh", "author" to "Ashwani Kumar Singh", "description" to """
-            |Hi, I'm Ashwani Kumar Singh, a software engineer based in India, and I'm passionate about mobile technology and AgenticAI.
+    AppGlobals.initialize(mapOf("title" to "Ashwani Kumar Singh", "author" to "Manoj Kumar Singh", "description" to """
+            |Hi, I'm Manoj Kumar Singh, a software engineer based in India, and I'm passionate about mobile technology and AgenticAI.
             |Discover my projects and my blog on this website.
             """.trimMargin(), "url" to ""))
     BasePath.set("")

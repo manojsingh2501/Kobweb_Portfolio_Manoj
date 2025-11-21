@@ -28,7 +28,7 @@ import com.varabyte.kobweb.silk.style.toModifier
 
 @InitRoute
 fun initSkillPage(ctx: InitRouteContext) {
-    ctx.data.add(PageLayoutData("Ashwani Skills"))
+    ctx.data.add(PageLayoutData("Manoj Skills"))
 }
 
 

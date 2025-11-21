@@ -83,7 +83,7 @@ fun BSHeader(ctx: PageContext) {
 // Helper function to programmatically download the resume PDF from the public folder.
 // The file lives at src/jsMain/resources/public/resume/Ashwani TechLead & KMP Developer.pdf
 private fun downloadResume() {
-    val fileName = "Ashwani TechLead & KMP Developer.pdf"
+    val fileName = "Manoj TechLead & KMP Developer.pdf"
     // Encode the filename for use in a URL
     val encoded = js("encodeURIComponent(fileName)") as String
     val href = "/resume/$encoded"

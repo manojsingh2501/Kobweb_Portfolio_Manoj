@@ -275,7 +275,7 @@ fun ContactUsInput() {
 								// Do not show a generic info message on validation failure; simply return
 								return@BSButton
 							}
-							val recipient = "ashwani@example.com"
+							val recipient = "Manoj@example.com"
 							val body = buildString {
 								append("Name: ")
 								append(firstName)
@@ -413,7 +413,7 @@ fun QuickInfos() {
 					)
 
 				A (
-					href = "https://github.com/ashwanisingh8713",
+					href = "https://github.com/manojsingh2501",
 					attrs = {
 						target(ATarget.Blank)
 					}
